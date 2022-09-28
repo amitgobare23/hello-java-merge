@@ -6,6 +6,7 @@ public class HelloTest {
 		System.out.println("Hello from local repository");
 		System.out.println("Hello from local repository again");
 		System.out.println("Hello from Remote repository");
+		System.out.println("this line is added after stash changes");
 	}
 
 }
